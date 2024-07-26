@@ -1,1 +1,1 @@
-[# landing_page](https://noelzin.com/)
+**Open the Application**: Navigate to [noel's portfolio((https://noelzin.com/).
