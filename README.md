@@ -1,2 +1,2 @@
 ## Landing Page
-Check out our landing page at [Noel's Portfolio](https://noelzin.com/) for more information.
+Check out my landing page at [Noel's Portfolio](https://noelzin.com/) for more information.
